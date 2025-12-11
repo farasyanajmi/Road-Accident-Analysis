@@ -30,7 +30,7 @@ The analysis is based on accident metrics, including severity, location (using L
 
 ## ⚙️ Step-by-Step Setup & Usage
 
-1.  **Clone the Repository:** `git clone [Your Repository URL Here]`
+1.  **Clone the Repository:**
 2.  **Open the Workbook:** Open **`Road Accident.twb`** in Tableau Desktop.
 3.  **Explore:** Use the **Current Year / Previous Year** and **Select Accident Severity** parameters on **`Dashboard 1`** to filter and compare data.
 
