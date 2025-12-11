@@ -2,6 +2,9 @@
 
 ## 🎯 Project Goal & Summary
 
+<img width="1245" height="701" alt="image" src="https://github.com/user-attachments/assets/b1f39293-b36b-4753-8cf4-56f134739654" />
+
+
 This project analyzes road accident data to identify key factors contributing to accident severity, casualties, and year-over-year trends. The findings are presented via an interactive Tableau Dashboard to provide actionable insights for traffic safety planning and intervention strategies.
 
 The analysis is based on accident metrics, including severity, location (using Latitude/Longitude), road conditions, weather, and vehicle type.
